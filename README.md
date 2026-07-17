@@ -190,9 +190,9 @@ Strong background in Ruby on Rails, enterprise SaaS, healthcare applications, pa
 
 ---
 
-# 📫 Connect With Me
+# 📫 Connect With Me 
 
-- 💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME
+- 💼 LinkedIn: https://www.linkedin.com/in/sumudhar/
 - 💻 GitHub: https://github.com/sumudhar
 - 📧 Email: muralidhar.tirupati@gmail.com
 
